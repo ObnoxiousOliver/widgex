@@ -1,0 +1,13 @@
+{
+  "name": "asd",
+  "description": "asdasdsa",
+  "options": {
+    "transparent": true,
+    "resizable": false,
+    "movable": true,
+    "size": {
+      "width": 200,
+      "height": 100
+    }
+  }
+}
